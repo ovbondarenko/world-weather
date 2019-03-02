@@ -1,0 +1,8 @@
+# Ignore config.py file
+config.py
+
+# Ignore the jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore __pychache__ folder
+__pycache__
